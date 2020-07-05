@@ -1,0 +1,3 @@
+rootProject.name='Praca licencjacka'
+include ':app'
+include ':openCVLibrary3410'
